@@ -1,4 +1,4 @@
 DataScience_2014-06
 ===================
 
-Repository build for Data Science Toolkit  Class
+Test Repository build for Data Science Toolkit  Class - used for practice
